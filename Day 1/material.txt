@@ -1,0 +1,9 @@
+Escreva a função imc que calcula o índice de massa corporal (imc = peso/altura 2 ).
+
+se o imc <= 18,5 retornar "Abaixo do peso"
+
+se o imc <= 25,0 retornar "Normal"
+
+se o imc <= 30,0 retornar "Sobrepeso"
+
+se o imc > 30 retornar "Obeso"
