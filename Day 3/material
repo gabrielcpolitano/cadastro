@@ -1,0 +1,7 @@
+Seus colegas pediram que você copiasse alguns documentos para eles. Você sabe que há 'n' colegas de classe e a papelada tem 'm' páginas.
+
+Sua tarefa é calcular quantas páginas em branco você precisa. Se n < 0 ou m < 0 retornar 0 .
+
+ Exemplo:
+n= 5, m=5: 25
+n= 2, m=5: 10
