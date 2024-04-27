@@ -1,6 +1,0 @@
-Dada uma cadeia de caracteres, você precisa retornar uma cadeia de caracteres na qual cada caractere (diferencia maiúsculas de minúsculas) é repetido uma vez.
-
-Exemplos (entrada > saída):
-* "String"      -> "SSttrriinngg"
-* "Hello World" -> "HHeelllloo  WWoorrlldd"
-* "1234!_ "     -> "11223344!!__  "

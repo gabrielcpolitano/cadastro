@@ -1,9 +1,0 @@
-Crie uma função que responda à pergunta "Você está jogando banjo?".
-
-Se o seu nome começa com a letra "R" ou "r" minúsculo, você está jogando banjo!
-
-A função usa um nome como seu único argumento e retorna uma das seguintes cadeias de caracteres:
-
-name + " plays banjo" 
-name + " does not play banjo"
-Os nomes fornecidos são sempre cadeias de caracteres válidas.
