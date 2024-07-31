@@ -1,0 +1,54 @@
+/* Estilo do conteneiner Geral */
+
+.container {
+  display: flex;
+  margin: 0 auto;
+  flex-direction:column;
+  max-width: 500px;
+  background-color: rgba(93, 93, 93, 0.641);
+  margin-top: 85px;
+  margin-bottom: 45px;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+/* Estilo do formulário */
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+/* Estilos do cardões */
+
+.card {
+  background-color: aliceblue;
+  text-align: left;
+  color: black;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 10px; /* arredonda os cantos */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* sombra */
+}
+
+
+/* Estilo da imagem do botão */
+img{
+  width: 20px;
+  color: aliceblue;
+}
+
+
+/* Estilo do botão */
+.delete{
+  width: 100%;
+  background-color: rgb(255, 183, 0);
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.delete:hover{
+  background-color: rgb(219, 158, 2);
+}
